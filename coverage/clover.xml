@@ -1,63 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1619022454255" clover="3.2.0">
-  <project timestamp="1619022454255" name="All files">
-    <metrics statements="22" coveredstatements="19" conditionals="4" coveredconditionals="2" methods="6" coveredmethods="5" elements="32" coveredelements="26" complexity="0" loc="22" ncloc="22" packages="6" files="6" classes="6"/>
+<coverage generated="1619033959495" clover="3.2.0">
+  <project timestamp="1619033959495" name="All files">
+    <metrics statements="35" coveredstatements="35" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10" elements="49" coveredelements="49" complexity="0" loc="35" ncloc="35" packages="9" files="9" classes="9"/>
     <package name="Test 1">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="script.js" path="C:\Users\Santiago\Desktop\test\Test 1\script.js">
+      <file name="script.js" path="C:\Users\Santiago\Desktop\Problematica-12\Test 1\script.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
       </file>
     </package>
     <package name="Test 2">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="script.js" path="C:\Users\Santiago\Desktop\test\Test 2\script.js">
+      <file name="script.js" path="C:\Users\Santiago\Desktop\Problematica-12\Test 2\script.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
-        <line num="2" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
       </file>
     </package>
     <package name="Test 3">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="script.js" path="C:\Users\Santiago\Desktop\test\Test 3\script.js">
+      <file name="script.js" path="C:\Users\Santiago\Desktop\Problematica-12\Test 3\script.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
-        <line num="2" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
       </file>
     </package>
     <package name="Test 4">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="script.js" path="C:\Users\Santiago\Desktop\test\Test 4\script.js">
+      <file name="script.js" path="C:\Users\Santiago\Desktop\Problematica-12\Test 4\script.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
-        <line num="2" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
       </file>
     </package>
     <package name="Test 5">
       <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <file name="script.js" path="C:\Users\Santiago\Desktop\test\Test 5\script.js">
+      <file name="script.js" path="C:\Users\Santiago\Desktop\Problematica-12\Test 5\script.js">
         <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
-        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
         <line num="3" count="1" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="Test 6">
-      <metrics statements="5" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <file name="script.js" path="C:\Users\Santiago\Desktop\test\Test 6\script.js">
-        <metrics statements="5" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="script.js" path="C:\Users\Santiago\Desktop\Problematica-12\Test 6\script.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
-        <line num="2" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="4" count="0" type="stmt"/>
-        <line num="5" count="0" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Test 7">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="script.js" path="C:\Users\Santiago\Desktop\Problematica-12\Test 7\script.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Test 8">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="script.js" path="C:\Users\Santiago\Desktop\Problematica-12\Test 8\script.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Test 9">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="script.js" path="C:\Users\Santiago\Desktop\Problematica-12\Test 9\script.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
       </file>
     </package>
   </project>
