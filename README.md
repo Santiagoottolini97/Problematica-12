@@ -3,7 +3,7 @@ Node JS + Jest
 
 ## Install
 
-npm install inside the main the inside the folder
+* npm install (inside the main the the folder)
 
 ## Autores ✒️
 
