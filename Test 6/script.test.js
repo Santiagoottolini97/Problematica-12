@@ -1,9 +1,8 @@
-const tableMultipier = require("./script");
+const tableMultipier = require('./script');
 
-test("tableMultipier 2 / 0 is equal to 0", () => {
-  expect(tableMultipier(undefined)).toBe(10);
+test('if tableMultipier is undefine return 10', () => {
+    expect(tableMultipier(undefined)).toBe(10);
 });
-
-test("tableMultipier 2 / 0 is equal to 0", () => {
-  expect(tableMultipier(3, 4)).toBe(0, 3, 6, 9, 12);
+test('tableMultipier 3 * 4 is equal to 0', () => {
+    expect(tableMultipier(3, 4)).toBe(0, 3, 6, 9, 12);
 });

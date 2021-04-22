@@ -1,4 +1,4 @@
 const texto = (texto) => {
-  return texto
-}
+    return texto;
+};
 module.exports = texto;

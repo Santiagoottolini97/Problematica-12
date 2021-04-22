@@ -1,5 +1,4 @@
 const multiplicacion = (factorA, factorB) => {
-  return factorA * factorB;
-}
-module.exports = multiplicacion
-
+    return factorA * factorB;
+};
+module.exports = multiplicacion;
