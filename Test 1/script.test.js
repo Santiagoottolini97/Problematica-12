@@ -1,5 +1,7 @@
 const text = require('./script');
 
-test('add text', () => {
-    expect(text('text')).toBe('text');
+describe('Function test', () => {
+    test('add text', () => {
+        expect(text('text')).toBe('text');
+    });
 });
